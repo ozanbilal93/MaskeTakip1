@@ -1,0 +1,7 @@
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Workaround\bin\Debug\Workaround.exe.config
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Workaround\bin\Debug\Workaround.exe
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Workaround\bin\Debug\Workaround.pdb
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Workaround\obj\Debug\Workaround.csproj.AssemblyReference.cache
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Workaround\obj\Debug\Workaround.csproj.CoreCompileInputs.cache
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Workaround\obj\Debug\Workaround.exe
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Workaround\obj\Debug\Workaround.pdb

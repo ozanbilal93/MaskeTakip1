@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{7EB63700-8368-4FA8-A7A1-00E508326876}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entites", "Entites\Entites.csproj", "{53760450-6AC3-42CF-8924-0CCB9ED1F32C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{F9B43195-0138-4D81-B532-97B5C4BD213E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB63700-8368-4FA8-A7A1-00E508326876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB63700-8368-4FA8-A7A1-00E508326876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB63700-8368-4FA8-A7A1-00E508326876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB63700-8368-4FA8-A7A1-00E508326876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53760450-6AC3-42CF-8924-0CCB9ED1F32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53760450-6AC3-42CF-8924-0CCB9ED1F32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53760450-6AC3-42CF-8924-0CCB9ED1F32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53760450-6AC3-42CF-8924-0CCB9ED1F32C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B43195-0138-4D81-B532-97B5C4BD213E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B43195-0138-4D81-B532-97B5C4BD213E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B43195-0138-4D81-B532-97B5C4BD213E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B43195-0138-4D81-B532-97B5C4BD213E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF5A1EE6-7DCA-461B-BBE1-0C15FD1AFB9F}
+	EndGlobalSection
+EndGlobal

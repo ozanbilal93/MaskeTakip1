@@ -1,0 +1,11 @@
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Entites\bin\Debug\net8.0\Entites.deps.json
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Entites\bin\Debug\net8.0\Entites.dll
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Entites\bin\Debug\net8.0\Entites.pdb
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Entites\obj\Debug\net8.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Entites\obj\Debug\net8.0\Entites.AssemblyInfoInputs.cache
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Entites\obj\Debug\net8.0\Entites.AssemblyInfo.cs
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Entites\obj\Debug\net8.0\Entites.csproj.CoreCompileInputs.cache
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Entites\obj\Debug\net8.0\Entites.dll
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Entites\obj\Debug\net8.0\refint\Entites.dll
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Entites\obj\Debug\net8.0\Entites.pdb
+C:\C# Dersleri\Murat Yücedağ\MaskeTakip\Entites\obj\Debug\net8.0\ref\Entites.dll
